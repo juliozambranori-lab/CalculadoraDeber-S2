@@ -1,0 +1,17 @@
+C:\Users\HP\OneDrive\Desktop\uniandes\PO 2\CalculadoraDeber\bin\Debug\net10.0-windows\CalculadoraDeber.exe
+C:\Users\HP\OneDrive\Desktop\uniandes\PO 2\CalculadoraDeber\bin\Debug\net10.0-windows\CalculadoraDeber.deps.json
+C:\Users\HP\OneDrive\Desktop\uniandes\PO 2\CalculadoraDeber\bin\Debug\net10.0-windows\CalculadoraDeber.runtimeconfig.json
+C:\Users\HP\OneDrive\Desktop\uniandes\PO 2\CalculadoraDeber\bin\Debug\net10.0-windows\CalculadoraDeber.dll
+C:\Users\HP\OneDrive\Desktop\uniandes\PO 2\CalculadoraDeber\bin\Debug\net10.0-windows\CalculadoraDeber.pdb
+C:\Users\HP\OneDrive\Desktop\uniandes\PO 2\CalculadoraDeber\obj\Debug\net10.0-windows\CalculadoraDeber.FrmCalculadora.resources
+C:\Users\HP\OneDrive\Desktop\uniandes\PO 2\CalculadoraDeber\obj\Debug\net10.0-windows\CalculadoraDeber.csproj.GenerateResource.cache
+C:\Users\HP\OneDrive\Desktop\uniandes\PO 2\CalculadoraDeber\obj\Debug\net10.0-windows\CalculadoraDeber.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\HP\OneDrive\Desktop\uniandes\PO 2\CalculadoraDeber\obj\Debug\net10.0-windows\CalculadoraDeber.AssemblyInfoInputs.cache
+C:\Users\HP\OneDrive\Desktop\uniandes\PO 2\CalculadoraDeber\obj\Debug\net10.0-windows\CalculadoraDeber.AssemblyInfo.cs
+C:\Users\HP\OneDrive\Desktop\uniandes\PO 2\CalculadoraDeber\obj\Debug\net10.0-windows\CalculadoraDeber.csproj.CoreCompileInputs.cache
+C:\Users\HP\OneDrive\Desktop\uniandes\PO 2\CalculadoraDeber\obj\Debug\net10.0-windows\CalculadoraDeber.dll
+C:\Users\HP\OneDrive\Desktop\uniandes\PO 2\CalculadoraDeber\obj\Debug\net10.0-windows\refint\CalculadoraDeber.dll
+C:\Users\HP\OneDrive\Desktop\uniandes\PO 2\CalculadoraDeber\obj\Debug\net10.0-windows\CalculadoraDeber.pdb
+C:\Users\HP\OneDrive\Desktop\uniandes\PO 2\CalculadoraDeber\obj\Debug\net10.0-windows\CalculadoraDeber.genruntimeconfig.cache
+C:\Users\HP\OneDrive\Desktop\uniandes\PO 2\CalculadoraDeber\obj\Debug\net10.0-windows\ref\CalculadoraDeber.dll
+C:\Users\HP\OneDrive\Desktop\uniandes\PO 2\CalculadoraDeber\obj\Debug\net10.0-windows\Calculad.7C3C9BC6.Up2Date
